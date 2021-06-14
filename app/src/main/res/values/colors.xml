@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#0081A7</color>
+    <color name="primaryLightColor">#00bcf5</color>
+    <color name="primaryDarkColor">#005e7a</color>
+    <color name="secondaryColor">#00AFB9</color>
+    <color name="secondaryLightColor">#00e5d0</color>
+    <color name="secondaryDarkColor">#00888f</color>
+    <color name="colorOnPrimary">#FEFFFE</color>
+    <color name="colorOnSecondary">#FEFFFE</color>
+    <color name="primaryRipple">#14006B43</color>
+    <color name="primaryRipple_200">#14429a6e</color>
+    <color name="profileBottomColor">#99C7E2F3</color>
+    <color name="red_200">#cf6679</color> <!--Color error (dark)-->
+    <color name="red_600">#b00020</color> <!--Color error (light)-->
+    <color name="green_600">#3D8A40</color>
+    <color name="green_200">#86CC89</color>
+    <color name="green_600_12">#1F4CAF50</color>
+    <color name="green_200_12">#1F63D568</color>
+    <color name="red_200_12">#1Fcf6679</color>
+    <color name="red_600_12">#1Fb00020</color>
+    <color name="grey_200">#80BDBDBD</color>
+    <color name="grey_600">#99131313</color>
+    <color name="blue_500">#2196f3</color>
+    <!--Color surface (light), color on error (light), -->
+    <!--color on surface (dark), color on surface (dark)-->
+    <color name="white_50">#ffffff</color>
+    <color name="white_87">#DEFFFFFF</color>
+    <color name="black_600">#1E1E1E</color>
+    <color name="black_800">#121212</color> <!--Color surface (dark)-->
+    <!--Color on secondary (light), color on background (light),-->
+    <!--color on surface (light)-->
+    <color name="black_900">#000000</color>
+
+    <attr name="buttonGreen" format="reference|color"/>
+    <attr name="buttonRedRipple" format="reference|color"/>
+
+</resources>

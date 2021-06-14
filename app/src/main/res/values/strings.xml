@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="appearance_header">Appearance</string>
+    <string name="app_name">Server</string>
+    <string name="settings">Settings</string>
+    <string name="add_server">Add Server</string>
+</resources>

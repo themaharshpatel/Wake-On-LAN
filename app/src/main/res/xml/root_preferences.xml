@@ -1,0 +1,17 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <maharsh.server.app.preferences.CustomPreferenceCategory
+        app:iconSpaceReserved="false"
+        app:title="@string/appearance_header">
+        <maharsh.server.app.preferences.CustomSwitchPreference
+            android:summaryOff="Click to enable night mode"
+            android:summaryOn="Click to disable night mode"
+            app:defaultValue="false"
+            app:icon="@drawable/ic_day_and_night"
+            app:iconSpaceReserved="false"
+            app:key="preference_night_mode"
+            app:title="Night Mode" />
+    </maharsh.server.app.preferences.CustomPreferenceCategory>
+
+</PreferenceScreen>

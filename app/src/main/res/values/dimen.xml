@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="left_margin">16dp</dimen>
+    <dimen name="right_margin">16dp</dimen>
+    <dimen name="top_margin">16dp</dimen>
+    <dimen name="gap_between_items">8dp</dimen>
+    <dimen name="page_title_size">18sp</dimen>
+
+</resources>
